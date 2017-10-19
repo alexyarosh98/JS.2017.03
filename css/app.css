@@ -4,3 +4,6 @@ body { margin: 30px; }
 
 .cell{display: table-cell; border: solid 1px black;}
 .row{display: table-row;}
+.red{background: red;}
+.orange{background: #ff9800;}
+.green{background: green;}
